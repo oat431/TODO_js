@@ -1,0 +1,7 @@
+.decide{
+    font-size:2rem;
+}
+.decide:hover{
+    font-size:2.5rem;
+    color:red;
+}
